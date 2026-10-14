@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Samiullah Khan
 
-<!--
-**risen62/risen62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning full-stack web development by building small, practical projects—from interactive browser games to server-rendered applications. I also practice data structures and algorithms in C++ and explore Python fundamentals.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[My Portfolio](https://github.com/risen62/My-Portfolio)** — my personal website, built with Next.js, React, and TypeScript. [Visit the website](https://risen62.github.io/My-Portfolio/).
+- **[Blog Web App](https://github.com/risen62/blog-web-app)** — create, read, edit, and delete posts with Express and EJS.
+- **[Full Stack Learning](https://github.com/risen62/fullstack-learning)** — HTML, CSS, JavaScript games, backend exercises, and API practice.
+
+## What I'm working with
+
+HTML · CSS · JavaScript · Node.js · Express · EJS · React · Next.js · TypeScript · Git
+
+I'm strengthening my frontend and backend foundations, learning through projects, and documenting what each exercise teaches me.
+
+[Algorithm practice](https://github.com/risen62/neetcode-submissions-) · [Python learning](https://github.com/risen62/Prosensia-Internship)
